@@ -6,3 +6,5 @@ I intend to include Arduino software to drive this controller and when ready I'l
 Any assistance or contributions are welcome.  
 
 I will take it down if the rightful owner of the design requires it. 
+
+Youtube video link: https://youtu.be/ZWP5-uEu6Ps
