@@ -7,4 +7,6 @@ Any assistance or contributions are welcome.
 
 I will take it down if the rightful owner of the design requires it. 
 
-Youtube video link: https://youtu.be/ZWP5-uEu6Ps
+Youtube video link : https://youtu.be/ZWP5-uEu6Ps
+
+Instructables link : https://www.instructables.com/Lieo-Power-First-PF906-Treadmill-Controller-Circui/
