@@ -9,7 +9,7 @@ Any assistance or contributions are welcome.
 
 I will take it down if the rightful owner of the design requires it. 
 
-Screen repository : 
+Screen repository : https://github.com/happymacer/pf906-LCD-display
 
 Youtube video link : https://youtu.be/ZWP5-uEu6Ps
 
